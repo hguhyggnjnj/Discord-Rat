@@ -39,7 +39,7 @@ namespace DiscordVirus
             _client.MessageReceived += CommandHandler;
             _client.Log += Log;
 
-            var token = "Your_token_here";
+            var token = "MTE4ODk4MDgwMDAxNjg3OTcwNg.G7761b.2lrjBzpdm6vHghG5HShZHuz6-ZVpCiqjgGOSwQ";
 
 
 
